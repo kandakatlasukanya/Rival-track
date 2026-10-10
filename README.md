@@ -50,7 +50,7 @@ To make competitor monitoring faster, simpler, and more effective through AI-pow
 
 ## 👥 Team
 
-Add your team name and member names here.
+Tritech Titans
 
 ## 📌 Note
 
