@@ -56,6 +56,5 @@ Tritech Titans
 
 This is an MVP prototype. Any simulated data or demo alerts should be clearly identified as examples.
 
----
 
 **RivalTrack — Track Competitors. Discover Insights. Stay Ahead.**
